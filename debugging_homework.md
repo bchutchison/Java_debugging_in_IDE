@@ -16,7 +16,7 @@ Answer the following questions:
 - Specifies the point in the code where the the code should pause and the debugger should commence
 
 2. Does the line of code on a breakpoint run when you start debugging?
-- No, it stops on the first line of code and updates the arguments.
+- No, it stops on the first line of code and identifies the objects.
 
 3. How do we debug the next line of code?
 - StepOver will run the first line of code specified by the breakpoint and then pause on the next line of code.
