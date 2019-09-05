@@ -19,10 +19,10 @@ Answer the following questions:
 - No, it stops on the first line of code and updates the arguments.
 
 3. How do we debug the next line of code?
-- Press StepOver will run the first line of code specified by the breakpoint and then pause on the next line of code.
+- StepOver will run the first line of code specified by the breakpoint and then pause on the next line of code.
 
 4. What does the step into command do?
-- StepInto will switch to the deal method and pause at the top of that method.
+- StepInto will switch to the next method to be executed and pause at the top of that method.
 
 5. What is the difference between evaluate expression and evaluate code fragment?
 - Expression => call methods on instances of objects created. Check values.
